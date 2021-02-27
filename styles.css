@@ -30,3 +30,7 @@ fav{
     color:rgb(15, 12, 12)
     
 }
+button{
+    width: 100px;
+    background-color: chartreuse;
+}
