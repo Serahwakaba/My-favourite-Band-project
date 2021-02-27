@@ -17,3 +17,16 @@ p{
   text-align: center;
   font-style: italic;
 }
+column{
+    float: left;
+    
+}
+row{
+    display: inline-flex;
+    text-align: center;
+    margin-left: 100px;
+}
+fav{
+    color:rgb(15, 12, 12)
+    
+}
