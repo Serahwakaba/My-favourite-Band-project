@@ -21,6 +21,18 @@ column{
     float: left;
     
 }
+h6{
+    text-align: center;
+    justify-content: center;
+    margin: 20px;
+}
+button{
+    background-color: rgb(30, 255, 0);
+}
+footer{
+    background-color: cyan;
+    height: 200px;
+}
 row{
     display: inline-flex;
     text-align: center;
@@ -33,4 +45,8 @@ fav{
 button{
     width: 100px;
     background-color: chartreuse;
+}
+li{
+    font-weight: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
